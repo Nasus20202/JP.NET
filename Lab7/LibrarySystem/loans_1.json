@@ -1,0 +1,17 @@
+{
+  "PatronId": 1,
+  "Loans": [
+    {
+      "ISBN": "978-83-246-1234-5",
+      "IsReturned": true
+    },
+    {
+      "ISBN": "978-83-246-5678-9",
+      "IsReturned": true
+    },
+    {
+      "ISBN": "978-83-246-9012-3",
+      "IsReturned": false
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+[
+  {
+    "PatronId": 1,
+    "ContactDetails": {
+      "FirstName": "Jan",
+      "LastName": "Kowalski",
+      "DateOfBirth": "1990-05-15",
+      "LibraryCardNumber": "LIB001",
+      "Email": "jan.kowalski@example.com",
+      "ContactMethod": {
+        "Type": 2,
+        "Phone": "+48123456789",
+        "PostalAddress": "ul. Warszawska 1, 00-001 Warszawa"
+      }
+    },
+    "Deposit": 100.0,
+    "JoinDate": "2020-01-15",
+    "Status": "Standard",
+    "FinesBalance": 0.0
+  },
+  {
+    "PatronId": 2,
+    "ContactDetails": {
+      "FirstName": "Anna",
+      "LastName": "Nowak",
+      "DateOfBirth": "1985-08-22",
+      "LibraryCardNumber": "LIB002",
+      "Email": null,
+      "ContactMethod": {
+        "Type": 0,
+        "Phone": "+48987654321",
+        "PostalAddress": null
+      }
+    },
+    "Deposit": 150.0,
+    "JoinDate": "2019-06-10",
+    "Status": "Premium",
+    "FinesBalance": 25.5
+  },
+  {
+    "PatronId": 3,
+    "ContactDetails": null,
+    "Deposit": 75.0,
+    "JoinDate": "2023-03-20",
+    "Status": "Standard",
+    "FinesBalance": 0.0
+  },
+  {
+    "PatronId": 4,
+    "ContactDetails": {
+      "FirstName": "Piotr",
+      "LastName": "Wiśniewski",
+      "DateOfBirth": "1995-12-03",
+      "LibraryCardNumber": "LIB004",
+      "Email": "piotr.wisniewski@example.com",
+      "ContactMethod": {
+        "Type": 1,
+        "Phone": null,
+        "PostalAddress": "ul. Krakowska 45, 30-001 Kraków"
+      }
+    },
+    "Deposit": 200.0,
+    "JoinDate": "2021-11-05",
+    "Status": "Standard",
+    "FinesBalance": 150.0
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "PatronId": 3,
+  "Loans": [
+    {
+      "ISBN": "978-83-246-1234-5",
+      "IsReturned": true
+    }
+  ]
+}
