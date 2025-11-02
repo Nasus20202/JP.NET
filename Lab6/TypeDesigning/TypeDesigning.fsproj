@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="String50.fs" />
+    <Compile Include="WrappedString.fs" />
+    <Compile Include="EmailAddress.fs" />
+    <Compile Include="ContactInfo.fs" />
+    <Compile Include="Entrypoint.fsx" />
+  </ItemGroup>
+
+</Project>
